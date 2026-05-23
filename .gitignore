@@ -1,0 +1,8 @@
+# Obsidian local workspace state
+user_data/.obsidian/workspace.json
+user_data/.obsidian/workspace-mobile.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
